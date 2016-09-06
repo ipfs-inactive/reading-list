@@ -16,6 +16,8 @@ This repo is for listing papers that are useful for understanding IPFS, whether 
 
 PRs accepted! Please [open an issue](https://github.com/ipfs/reading-list/issues/new) if you would like to discuss adding a paper you think is relevant, or open a PR to add the paper directly.
 
+For papers which cite IPFS, discuss it, or describe projects that use it please see [ipfs/papers](https://github.com/ipfs/papers).
+
 ### How to add a paper
 
 Please title your PR after the name of the paper. For instance: `Benet - IPFS - Content Addressed, Versioned, P2P File System`.
