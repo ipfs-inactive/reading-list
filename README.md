@@ -10,7 +10,15 @@ This repo is for listing papers that are useful for understanding IPFS, whether 
 
 ## Papers
 
-- Benet, J. (2014) [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf).
+- Baumgart, Ingmar and Mies, Sebastian (2007) [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](http://www.tm.uka.de/doc/SKademlia_2007.pdf)
+- Benet, Juan (2014) [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf).
+- Freedman, Michael J., Freudenthal, Eric and Mazières, David (2004) [Democratizing Content Publication with Coral](http://www.coralcdn.org/docs/coral-nsdi04.pdf)
+- Mazières, David and Kaashoek, M. Frans (1998) [Escaping the Evils of Centralized Control with self-certifying pathnames](http://www.sigops.org/ew-history/1998/papers/mazieres.ps)
+- Mazières, David and Maymounkov, Petar (2002) [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](http://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
+
+## Related bibliographies:
+
+- The Coral project keeps a [publications list](http://www.coralcdn.org/pubs/)
 
 ## Contribute
 
