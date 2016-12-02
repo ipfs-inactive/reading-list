@@ -16,7 +16,7 @@ This repo is for listing papers that are useful for understanding IPFS, whether 
 
 PRs accepted! Please [open an issue](https://github.com/ipfs/reading-list/issues/new) if you would like to discuss adding a paper you think is relevant, or open a PR to add the paper directly.
 
-For papers which cite IPFS, discuss it, or describe projects that use it please see [ipfs/papers](https://github.com/ipfs/papers).
+For papers which the IPFS community has written that cite IPFS, discuss it, or describe projects that use it, please see [ipfs/papers](https://github.com/ipfs/papers). We can also link those here; if you see one that isn't mentioned above, please open a pull request.
 
 ### How to add a paper
 
