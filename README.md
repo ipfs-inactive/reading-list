@@ -1,4 +1,6 @@
-# reading-list
+# [ARCHIVED] reading-list
+
+#### IMPORTANT! The materials from this repo have been moved to the [IPFS Docs](https://docs.ipfs.io) website. ####
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
